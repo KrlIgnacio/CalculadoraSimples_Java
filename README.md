@@ -1,4 +1,4 @@
-<h1>Calculadora Básica Java</h1> 
+<h1>Calculadora Básica Java 🖩</h1> 
 
 <h2>➡️O que você encontra nesse repositório: </h2>
 Operações básicas - ✖️ | ➕ | ➖ | ➗ <br>
